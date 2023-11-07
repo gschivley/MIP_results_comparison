@@ -1,1 +1,1 @@
-Sitemap: https://gschivley.github.io/MIP_results_comparison/sitemap.xml
+Sitemap: https://github.com/gschivley/MIP_results_comparison/sitemap.xml

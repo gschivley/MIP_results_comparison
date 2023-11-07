@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://gschivley.github.io/MIP_results_comparison/blog.html</loc>
-    <lastmod>2023-11-06T17:56:54.132Z</lastmod>
+    <loc>https://github.com/gschivley/MIP_results_comparison/3z-debug-scenarios/figures.html</loc>
+    <lastmod>2023-11-07T19:37:06.149Z</lastmod>
   </url>
   <url>
-    <loc>https://gschivley.github.io/MIP_results_comparison/notebooks/26z-thin-debug.html</loc>
-    <lastmod>2023-11-06T20:16:17.840Z</lastmod>
+    <loc>https://github.com/gschivley/MIP_results_comparison/notebooks/26z-thin-debug-noCO2Cap.html</loc>
+    <lastmod>2023-11-07T19:37:00.941Z</lastmod>
   </url>
   <url>
-    <loc>https://gschivley.github.io/MIP_results_comparison/notebooks/26z-thin-debug-highCO2cost.html</loc>
-    <lastmod>2023-11-06T20:19:48.491Z</lastmod>
+    <loc>https://github.com/gschivley/MIP_results_comparison/notebooks/26z-thin-debug.html</loc>
+    <lastmod>2023-11-07T19:35:56.665Z</lastmod>
   </url>
   <url>
-    <loc>https://gschivley.github.io/MIP_results_comparison/notebooks/26z-thin-debug-noCO2Cap.html</loc>
-    <lastmod>2023-11-06T20:20:39.772Z</lastmod>
+    <loc>https://github.com/gschivley/MIP_results_comparison/notebooks/26z-thin-debug-highCO2cost.html</loc>
+    <lastmod>2023-11-07T19:36:29.645Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/gschivley/MIP_results_comparison/blog.html</loc>
+    <lastmod>2023-11-07T19:37:05.225Z</lastmod>
   </url>
 </urlset>
