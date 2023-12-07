@@ -2,8 +2,8 @@
   {
     "listing": "/blog.html",
     "items": [
-      "/notebooks/26z-thin-debug.html",
       "/notebooks/26z-thin-debug-highCO2cost.html",
+      "/notebooks/26z-thin-debug.html",
       "/notebooks/26z-thin-debug-noCO2Cap.html"
     ]
   }
