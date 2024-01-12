@@ -2,15 +2,13 @@
   {
     "listing": "/blog.html",
     "items": [
-      "/notebooks/26z-thin-debug-highCO2cost.html",
       "/notebooks/26z-short-base-50.html",
+      "/notebooks/compare_short_cases_by_model.html",
       "/notebooks/26z-short-base-200-foresight.html",
       "/notebooks/26z-short-base-200.html",
-      "/notebooks/26z-thin-debug.html",
       "/notebooks/26z-short-base-1000.html",
       "/notebooks/26z-short-base-200-retire.html",
-      "/notebooks/26z-short-no-ccs.html",
-      "/notebooks/26z-thin-debug-noCO2Cap.html"
+      "/notebooks/26z-short-no-ccs.html"
     ]
   }
 ]
