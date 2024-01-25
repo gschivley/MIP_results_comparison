@@ -78,9 +78,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-title","listing-author"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -180,7 +180,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(9)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(9)</span></div><div class="category" data-category="Base">Base <span class="quarto-category-count">(6)</span></div><div class="category" data-category="CO2 cap">CO2 cap <span class="quarto-category-count">(6)</span></div><div class="category" data-category="Comparison">Comparison <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Current policies">Current policies <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Endogenous retirement">Endogenous retirement <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Foresight">Foresight <span class="quarto-category-count">(1)</span></div><div class="category" data-category="No CCS">No CCS <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Short">Short <span class="quarto-category-count">(9)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -192,213 +192,99 @@ window.Quarto = {
 
 
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="quarto-listing quarto-listing-container-table" id="listing-listing">
 <div class="listing-actions-group">
     <div class="input-group input-group-sm quarto-listing-filter">
       <span class="input-group-text"><i class="bi bi-search"></i></span>
       <input type="text" class="search form-control" placeholder="Filter">
     </div>
 </div>
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1706209028185" data-listing-reading-time-sort="4" data-listing-word-count-sort="672">
-<div class="thumbnail">
-<p><a href="./notebooks/26z-short-base-200-foresight.html" class="no-external"></a></p><a href="./notebooks/26z-short-base-200-foresight.html" class="no-external">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./notebooks/26z-short-base-200-foresight.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./notebooks/26z-short-base-200-foresight.html" class="no-external">26 zone short base $200 foresight</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./notebooks/26z-short-base-200-foresight.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./notebooks/26z-short-base-200-foresight.html" class="no-external"></a>
-</div>
-</div>
-<div class="metadata">
-<p><a href="./notebooks/26z-short-base-200-foresight.html" class="no-external"></a></p><a href="./notebooks/26z-short-base-200-foresight.html" class="no-external">
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-listing-file-modified-sort="1706209028185" data-listing-reading-time-sort="4" data-listing-word-count-sort="678">
-<div class="thumbnail">
-<p><a href="./notebooks/26z-short-current-policies.html" class="no-external"></a></p><a href="./notebooks/26z-short-current-policies.html" class="no-external">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./notebooks/26z-short-current-policies.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./notebooks/26z-short-current-policies.html" class="no-external">26 zone short current policies</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./notebooks/26z-short-current-policies.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./notebooks/26z-short-current-policies.html" class="no-external"></a>
-</div>
-</div>
-<div class="metadata">
-<p><a href="./notebooks/26z-short-current-policies.html" class="no-external"></a></p><a href="./notebooks/26z-short-current-policies.html" class="no-external">
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-listing-file-modified-sort="1706209028185" data-listing-reading-time-sort="4" data-listing-word-count-sort="672">
-<div class="thumbnail">
-<p><a href="./notebooks/26z-short-base-1000.html" class="no-external"></a></p><a href="./notebooks/26z-short-base-1000.html" class="no-external">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./notebooks/26z-short-base-1000.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./notebooks/26z-short-base-1000.html" class="no-external">26 zone short base $1000</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./notebooks/26z-short-base-1000.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./notebooks/26z-short-base-1000.html" class="no-external"></a>
-</div>
-</div>
-<div class="metadata">
-<p><a href="./notebooks/26z-short-base-1000.html" class="no-external"></a></p><a href="./notebooks/26z-short-base-1000.html" class="no-external">
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-listing-file-modified-sort="1706209028185" data-listing-reading-time-sort="3" data-listing-word-count-sort="592">
-<div class="thumbnail">
-<p><a href="./notebooks/26z-short-base-200.html" class="no-external"></a></p><a href="./notebooks/26z-short-base-200.html" class="no-external">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./notebooks/26z-short-base-200.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./notebooks/26z-short-base-200.html" class="no-external">26 zone short base $200</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./notebooks/26z-short-base-200.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./notebooks/26z-short-base-200.html" class="no-external"></a>
-</div>
-</div>
-<div class="metadata">
-<p><a href="./notebooks/26z-short-base-200.html" class="no-external"></a></p><a href="./notebooks/26z-short-base-200.html" class="no-external">
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-listing-file-modified-sort="1706209028185" data-listing-reading-time-sort="3" data-listing-word-count-sort="584">
-<div class="thumbnail">
-<p><a href="./notebooks/26z-short-base-50.html" class="no-external"></a></p><a href="./notebooks/26z-short-base-50.html" class="no-external">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./notebooks/26z-short-base-50.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./notebooks/26z-short-base-50.html" class="no-external">26 zone short base $50</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./notebooks/26z-short-base-50.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./notebooks/26z-short-base-50.html" class="no-external"></a>
-</div>
-</div>
-<div class="metadata">
-<p><a href="./notebooks/26z-short-base-50.html" class="no-external"></a></p><a href="./notebooks/26z-short-base-50.html" class="no-external">
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="5" data-listing-file-modified-sort="1706209028189" data-listing-reading-time-sort="4" data-listing-word-count-sort="672">
-<div class="thumbnail">
-<p><a href="./notebooks/26z-short-no-ccs.html" class="no-external"></a></p><a href="./notebooks/26z-short-no-ccs.html" class="no-external">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./notebooks/26z-short-no-ccs.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./notebooks/26z-short-no-ccs.html" class="no-external">26 zone short no CCS</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./notebooks/26z-short-no-ccs.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./notebooks/26z-short-no-ccs.html" class="no-external"></a>
-</div>
-</div>
-<div class="metadata">
-<p><a href="./notebooks/26z-short-no-ccs.html" class="no-external"></a></p><a href="./notebooks/26z-short-no-ccs.html" class="no-external">
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="6" data-listing-file-modified-sort="1706209028185" data-listing-reading-time-sort="4" data-listing-word-count-sort="672">
-<div class="thumbnail">
-<p><a href="./notebooks/26z-short-base-200-retire.html" class="no-external"></a></p><a href="./notebooks/26z-short-base-200-retire.html" class="no-external">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./notebooks/26z-short-base-200-retire.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./notebooks/26z-short-base-200-retire.html" class="no-external">26 zone short base $200 retire</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./notebooks/26z-short-base-200-retire.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./notebooks/26z-short-base-200-retire.html" class="no-external"></a>
-</div>
-</div>
-<div class="metadata">
-<p><a href="./notebooks/26z-short-base-200-retire.html" class="no-external"></a></p><a href="./notebooks/26z-short-base-200-retire.html" class="no-external">
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="7" data-listing-file-modified-sort="1706209028189" data-listing-reading-time-sort="4" data-listing-word-count-sort="701">
-<div class="thumbnail">
-<p><a href="./notebooks/compare_short_cases_against_base.html" class="no-external"></a></p><a href="./notebooks/compare_short_cases_against_base.html" class="no-external">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./notebooks/compare_short_cases_against_base.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./notebooks/compare_short_cases_against_base.html" class="no-external">Compare short cases against base $200</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./notebooks/compare_short_cases_against_base.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./notebooks/compare_short_cases_against_base.html" class="no-external"></a>
-</div>
-</div>
-<div class="metadata">
-<p><a href="./notebooks/compare_short_cases_against_base.html" class="no-external"></a></p><a href="./notebooks/compare_short_cases_against_base.html" class="no-external">
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="8" data-listing-file-modified-sort="1706209028189" data-listing-reading-time-sort="2" data-listing-word-count-sort="356">
-<div class="thumbnail">
-<p><a href="./notebooks/compare_short_cases_by_model.html" class="no-external"></a></p><a href="./notebooks/compare_short_cases_by_model.html" class="no-external">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./notebooks/compare_short_cases_by_model.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./notebooks/compare_short_cases_by_model.html" class="no-external">Compare short scenario results</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./notebooks/compare_short_cases_by_model.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./notebooks/compare_short_cases_by_model.html" class="no-external"></a>
-</div>
-</div>
-<div class="metadata">
-<p><a href="./notebooks/compare_short_cases_by_model.html" class="no-external"></a></p><a href="./notebooks/compare_short_cases_by_model.html" class="no-external">
-</a>
-</div>
-</div>
-</div>
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+<th>
+Title
+</th>
+<th>
+Author
+</th>
+</tr>
+</thead>
+<tbody class="list">
+<tr data-index="0" data-categories="Short,Comparison" data-listing-file-modified-sort="1706210383400" data-listing-reading-time-sort="2" data-listing-word-count-sort="356" data-listing-title-sort="Compare short scenario results" data-listing-filename-sort="compare_short_cases_by_model.qmd">
+<td>
+<a href="./notebooks/compare_short_cases_by_model.html" class="title listing-title">Compare short scenario results</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="1" data-categories="Short,Comparison" data-listing-file-modified-sort="1706210383400" data-listing-reading-time-sort="4" data-listing-word-count-sort="701" data-listing-title-sort="Compare short cases against base $200" data-listing-filename-sort="compare_short_cases_against_base.qmd">
+<td>
+<a href="./notebooks/compare_short_cases_against_base.html" class="title listing-title">Compare short cases against base $200</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="2" data-categories="Short,Base,CO2 cap,No CCS" data-listing-file-modified-sort="1706210383400" data-listing-reading-time-sort="4" data-listing-word-count-sort="672" data-listing-title-sort="26 zone short no CCS" data-listing-filename-sort="26z-short-no-ccs.qmd">
+<td>
+<a href="./notebooks/26z-short-no-ccs.html" class="title listing-title">26 zone short no CCS</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="3" data-categories="Short,Current policies" data-listing-file-modified-sort="1706210383400" data-listing-reading-time-sort="4" data-listing-word-count-sort="678" data-listing-title-sort="26 zone short current policies" data-listing-filename-sort="26z-short-current-policies.qmd">
+<td>
+<a href="./notebooks/26z-short-current-policies.html" class="title listing-title">26 zone short current policies</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="4" data-categories="Short,Base,CO2 cap" data-listing-file-modified-sort="1706210383400" data-listing-reading-time-sort="3" data-listing-word-count-sort="584" data-listing-title-sort="26 zone short base $50" data-listing-filename-sort="26z-short-base-50.qmd">
+<td>
+<a href="./notebooks/26z-short-base-50.html" class="title listing-title">26 zone short base $50</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="5" data-categories="Short,Base,CO2 cap,Endogenous retirement" data-listing-file-modified-sort="1706210383400" data-listing-reading-time-sort="4" data-listing-word-count-sort="672" data-listing-title-sort="26 zone short base $200 retire" data-listing-filename-sort="26z-short-base-200-retire.qmd">
+<td>
+<a href="./notebooks/26z-short-base-200-retire.html" class="title listing-title">26 zone short base $200 retire</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="6" data-categories="Short,Base,CO2 cap,Foresight" data-listing-file-modified-sort="1706210383400" data-listing-reading-time-sort="4" data-listing-word-count-sort="672" data-listing-title-sort="26 zone short base $200 foresight" data-listing-filename-sort="26z-short-base-200-foresight.qmd">
+<td>
+<a href="./notebooks/26z-short-base-200-foresight.html" class="title listing-title">26 zone short base $200 foresight</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="7" data-categories="Short,Base,CO2 cap" data-listing-file-modified-sort="1706210383400" data-listing-reading-time-sort="3" data-listing-word-count-sort="592" data-listing-title-sort="26 zone short base $200" data-listing-filename-sort="26z-short-base-200.qmd">
+<td>
+<a href="./notebooks/26z-short-base-200.html" class="title listing-title">26 zone short base $200</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="8" data-categories="Short,Base,CO2 cap" data-listing-file-modified-sort="1706210383400" data-listing-reading-time-sort="4" data-listing-word-count-sort="672" data-listing-title-sort="26 zone short base $1000" data-listing-filename-sort="26z-short-base-1000.qmd">
+<td>
+<a href="./notebooks/26z-short-base-1000.html" class="title listing-title">26 zone short base $1000</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="listing-no-matching d-none">
 No matching items
 </div>

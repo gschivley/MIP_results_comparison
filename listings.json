@@ -2,15 +2,15 @@
   {
     "listing": "/blog.html",
     "items": [
-      "/notebooks/26z-short-base-200-foresight.html",
-      "/notebooks/26z-short-current-policies.html",
-      "/notebooks/26z-short-base-1000.html",
-      "/notebooks/26z-short-base-200.html",
-      "/notebooks/26z-short-base-50.html",
-      "/notebooks/26z-short-no-ccs.html",
-      "/notebooks/26z-short-base-200-retire.html",
+      "/notebooks/compare_short_cases_by_model.html",
       "/notebooks/compare_short_cases_against_base.html",
-      "/notebooks/compare_short_cases_by_model.html"
+      "/notebooks/26z-short-no-ccs.html",
+      "/notebooks/26z-short-current-policies.html",
+      "/notebooks/26z-short-base-50.html",
+      "/notebooks/26z-short-base-200-retire.html",
+      "/notebooks/26z-short-base-200-foresight.html",
+      "/notebooks/26z-short-base-200.html",
+      "/notebooks/26z-short-base-1000.html"
     ]
   }
 ]
