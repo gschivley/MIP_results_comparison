@@ -2,6 +2,7 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/notebooks/compare_short_tx_cases_by_model.html",
       "/notebooks/compare_short_cases_by_model.html",
       "/notebooks/compare_short_cases_against_base.html",
       "/notebooks/26z-short-no-ccs.html",
