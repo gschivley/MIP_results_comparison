@@ -2,50 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://gschivley.github.io/MIP_results_comparison/notebooks/compare_short_tx_cases_by_model.html</loc>
-    <lastmod>2024-02-05T19:41:04.562Z</lastmod>
+    <lastmod>2024-02-07T04:44:02.217Z</lastmod>
   </url>
   <url>
     <loc>https://gschivley.github.io/MIP_results_comparison/notebooks/compare_short_cases_against_base.html</loc>
-    <lastmod>2024-02-05T19:41:04.562Z</lastmod>
+    <lastmod>2024-02-07T04:44:02.217Z</lastmod>
   </url>
   <url>
     <loc>https://gschivley.github.io/MIP_results_comparison/notebooks/26z-short-current-policies.html</loc>
-    <lastmod>2024-02-05T19:41:04.562Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gschivley.github.io/MIP_results_comparison/notebooks/26z-short-base-200.html</loc>
-    <lastmod>2024-02-05T19:41:04.562Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gschivley.github.io/MIP_results_comparison/notebooks/26z-short-base-200-reserves.html</loc>
-    <lastmod>2024-02-05T19:41:04.562Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gschivley.github.io/MIP_results_comparison/notebooks/26z-short-base-1000.html</loc>
-    <lastmod>2024-02-05T19:41:04.562Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gschivley.github.io/MIP_results_comparison/blog.html</loc>
-    <lastmod>2024-02-05T19:41:04.270Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gschivley.github.io/MIP_results_comparison/notebooks/26z-short-base-200-foresight.html</loc>
-    <lastmod>2024-02-05T19:41:04.562Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gschivley.github.io/MIP_results_comparison/notebooks/26z-short-base-200-retire.html</loc>
-    <lastmod>2024-02-05T19:41:04.562Z</lastmod>
+    <lastmod>2024-02-07T04:44:02.217Z</lastmod>
   </url>
   <url>
     <loc>https://gschivley.github.io/MIP_results_comparison/notebooks/26z-short-base-50.html</loc>
-    <lastmod>2024-02-05T19:41:04.562Z</lastmod>
+    <lastmod>2024-02-07T04:44:02.213Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gschivley.github.io/MIP_results_comparison/notebooks/26z-short-base-200-retire.html</loc>
+    <lastmod>2024-02-07T04:44:02.213Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gschivley.github.io/MIP_results_comparison/notebooks/26z-short-base-200-foresight.html</loc>
+    <lastmod>2024-02-07T04:44:02.213Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gschivley.github.io/MIP_results_comparison/blog.html</loc>
+    <lastmod>2024-02-07T04:44:01.925Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gschivley.github.io/MIP_results_comparison/notebooks/26z-short-base-1000.html</loc>
+    <lastmod>2024-02-07T04:44:02.213Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gschivley.github.io/MIP_results_comparison/notebooks/26z-short-base-200-reserves.html</loc>
+    <lastmod>2024-02-07T04:44:02.213Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gschivley.github.io/MIP_results_comparison/notebooks/26z-short-base-200.html</loc>
+    <lastmod>2024-02-07T04:44:02.213Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gschivley.github.io/MIP_results_comparison/notebooks/26z-short-base-commit.html</loc>
+    <lastmod>2024-02-07T04:44:02.213Z</lastmod>
   </url>
   <url>
     <loc>https://gschivley.github.io/MIP_results_comparison/notebooks/26z-short-no-ccs.html</loc>
-    <lastmod>2024-02-05T19:41:04.562Z</lastmod>
+    <lastmod>2024-02-07T04:44:02.217Z</lastmod>
   </url>
   <url>
     <loc>https://gschivley.github.io/MIP_results_comparison/notebooks/compare_short_cases_by_model.html</loc>
-    <lastmod>2024-02-05T19:41:04.562Z</lastmod>
+    <lastmod>2024-02-07T04:44:02.217Z</lastmod>
   </url>
 </urlset>
