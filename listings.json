@@ -2,9 +2,13 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/notebooks/short-current-policies-retire-low-credit.html",
       "/notebooks/short-current-policies-retire.html",
+      "/notebooks/short-current-policies-low-credit.html",
       "/notebooks/short-current-policies.html",
       "/notebooks/short-base-200-retire.html",
+      "/notebooks/short-base-200-no-ccs.html",
+      "/notebooks/short-base-200-tx-15.html",
       "/notebooks/short-base-200.html",
       "/notebooks/compare_short_tx_cases_by_model.html",
       "/notebooks/compare_short_cases_against_base.html",
