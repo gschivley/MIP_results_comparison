@@ -2,58 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://gschivley.github.io/MIP_results_comparison/notebooks/full-current-policies.html</loc>
-    <lastmod>2024-05-17T15:24:49.521Z</lastmod>
+    <lastmod>2024-07-12T18:19:25.124Z</lastmod>
   </url>
   <url>
     <loc>https://gschivley.github.io/MIP_results_comparison/notebooks/full-current-policies-commit.html</loc>
-    <lastmod>2024-05-23T17:24:34.005Z</lastmod>
+    <lastmod>2024-07-12T18:19:25.124Z</lastmod>
   </url>
   <url>
     <loc>https://gschivley.github.io/MIP_results_comparison/notebooks/full-base-200.html</loc>
-    <lastmod>2024-07-11T18:49:08.117Z</lastmod>
+    <lastmod>2024-07-12T18:19:25.124Z</lastmod>
   </url>
   <url>
     <loc>https://gschivley.github.io/MIP_results_comparison/notebooks/full-base-200-tx-15.html</loc>
-    <lastmod>2024-05-17T15:24:46.075Z</lastmod>
+    <lastmod>2024-07-12T18:19:25.124Z</lastmod>
   </url>
   <url>
     <loc>https://gschivley.github.io/MIP_results_comparison/notebooks/full-base-200-retire.html</loc>
-    <lastmod>2024-05-17T15:24:44.009Z</lastmod>
+    <lastmod>2024-07-12T18:19:25.124Z</lastmod>
   </url>
   <url>
     <loc>https://gschivley.github.io/MIP_results_comparison/notebooks/full-base-1000.html</loc>
-    <lastmod>2024-05-17T15:24:48.341Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gschivley.github.io/MIP_results_comparison/notebooks/base-foresight.html</loc>
-    <lastmod>2024-07-11T17:11:22.718Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gschivley.github.io/MIP_results_comparison/blog.html</loc>
-    <lastmod>2024-07-08T18:11:06.184Z</lastmod>
+    <lastmod>2024-07-12T18:19:25.124Z</lastmod>
   </url>
   <url>
     <loc>https://gschivley.github.io/MIP_results_comparison/notebooks/compare_full_cases.html</loc>
-    <lastmod>2024-07-11T18:46:18.977Z</lastmod>
+    <lastmod>2024-07-12T18:19:25.124Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gschivley.github.io/MIP_results_comparison/blog.html</loc>
+    <lastmod>2024-07-12T18:19:14.800Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gschivley.github.io/MIP_results_comparison/notebooks/base-foresight.html</loc>
+    <lastmod>2024-07-12T18:19:25.124Z</lastmod>
   </url>
   <url>
     <loc>https://gschivley.github.io/MIP_results_comparison/notebooks/full-base-200-no-ccs.html</loc>
-    <lastmod>2024-05-17T15:24:42.662Z</lastmod>
+    <lastmod>2024-07-12T18:19:25.124Z</lastmod>
   </url>
   <url>
     <loc>https://gschivley.github.io/MIP_results_comparison/notebooks/full-base-200-tx-0.html</loc>
-    <lastmod>2024-07-12T17:25:49.220Z</lastmod>
+    <lastmod>2024-07-12T18:19:25.124Z</lastmod>
   </url>
   <url>
     <loc>https://gschivley.github.io/MIP_results_comparison/notebooks/full-base-200-tx-50.html</loc>
-    <lastmod>2024-05-17T15:24:47.021Z</lastmod>
+    <lastmod>2024-07-12T18:19:25.124Z</lastmod>
   </url>
   <url>
     <loc>https://gschivley.github.io/MIP_results_comparison/notebooks/full-base-50.html</loc>
-    <lastmod>2024-07-09T15:24:20.468Z</lastmod>
+    <lastmod>2024-07-12T18:19:25.124Z</lastmod>
   </url>
   <url>
     <loc>https://gschivley.github.io/MIP_results_comparison/notebooks/full-current-policies-retire.html</loc>
-    <lastmod>2024-05-17T15:24:48.955Z</lastmod>
+    <lastmod>2024-07-12T18:19:25.124Z</lastmod>
   </url>
 </urlset>
