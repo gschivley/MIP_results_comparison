@@ -2,6 +2,7 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/notebooks/compare_foresight.html",
       "/notebooks/compare_full_cases.html",
       "/notebooks/base-foresight.html",
       "/notebooks/full-current-policies-retire.html",
