@@ -10,13 +10,18 @@
       "/notebooks/full-current-policies-retire.html",
       "/notebooks/full-current-policies.html",
       "/notebooks/full-base-50.html",
+      "/notebooks/full-base-200-commit.html",
       "/notebooks/full-base-200-retire.html",
       "/notebooks/full-base-200-no-ccs.html",
       "/notebooks/full-base-200.html",
       "/notebooks/full-base-1000.html",
       "/notebooks/full-base-200-tx-50.html",
       "/notebooks/full-base-200-tx-15.html",
-      "/notebooks/full-base-200-tx-0.html"
+      "/notebooks/full-base-200-tx-0.html",
+      "/notebooks/20-week-current-policies-myopic.html",
+      "/notebooks/20-week-current-policies-foresight.html",
+      "/notebooks/20-week-base-myopic.html",
+      "/notebooks/20-week-base-foresight.html"
     ]
   }
 ]
