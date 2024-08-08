@@ -4,6 +4,7 @@
     "items": [
       "/notebooks/compare_transmission.html",
       "/notebooks/compare_foresight.html",
+      "/notebooks/compare_carbon_price.html",
       "/notebooks/compare_full_cases.html",
       "/notebooks/base-foresight.html",
       "/notebooks/full-current-policies-commit.html",
