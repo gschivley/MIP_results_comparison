@@ -2,8 +2,10 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/notebooks/compare_unit_commit.html",
       "/notebooks/compare_transmission.html",
       "/notebooks/compare_foresight.html",
+      "/notebooks/compare_retirement.html",
       "/notebooks/compare_current_policies.html",
       "/notebooks/compare_carbon_price.html",
       "/notebooks/compare_full_cases.html",
